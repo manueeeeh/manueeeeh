@@ -13,6 +13,7 @@ const manupro27 = {
 
 Where you can find me 🌎 (No one is gonna find me btw XD):
  - Discord (ImMannu#7219)
+ - manu@waveguard.dev
 
 [![manupro27 GitHub stats](https://github-readme-stats.vercel.app/api?username=manupro27&show_icons=true&theme=merko&count_private=true)]()
 
