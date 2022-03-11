@@ -10,7 +10,7 @@ const manupro27 = {
 }
 ```
 
-Where you can find me 🌎 (No one is gonna find me btw XD):
+Where you can find me 🌎 :
  - Discord (ImMannu#7219)
  - manu@waveguard.dev
 
