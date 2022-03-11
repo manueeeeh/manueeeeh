@@ -1,4 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manupro27&repo=manupro27)]()
 ### Hi there, I'm Manu 👋!
 
 ## About me
