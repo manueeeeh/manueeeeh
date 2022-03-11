@@ -1,3 +1,4 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manupro27&repo=manupro27)]()
 ### Hi there, I'm Manu 👋!
 
 ## About me
@@ -15,4 +16,4 @@ Where you can find me 🌎 (No one is gonna find me btw XD):
 
 [![manupro27 GitHub stats](https://github-readme-stats.vercel.app/api?username=manupro27&show_icons=true&theme=merko&count_private=true)]()
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manupro27&repo=manupro27)]()
+
