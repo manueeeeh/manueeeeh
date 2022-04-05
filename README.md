@@ -1,5 +1,5 @@
 <h1 align="center">console.log("I'm Manuel Sánchez, nice to meet you")</h1>
-<h3 align="center">A junior frontend developer from Spain that likes programming and learning on his free time.</h3>
+<h3 align="center">A junior frontend developer from Spain that likes programming and learning on his free time.</h3><br>
 
 
 - 🌱 I’m currently learning JavaScript and some frontend frameworks
