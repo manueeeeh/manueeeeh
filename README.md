@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning JavaScript and some frontend frameworks
 
-- 📫 How to reach me manu@waveguard.dev / manudev.me
+- 📫 How to reach me manu@waveguard.dev / https://manudev.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
