@@ -1,7 +1,6 @@
 <h1 align="center">console.log("Hello world!") I'm Manuel Sánchez, nice to meet you</h1>
 <h3 align="center">A junior frontend developer from Spain that likes programming and learning on his free time.</h3>
 
-<p align="left"> <a href="https://twitter.com/maneilsf" target="blank"><img src="https://img.shields.io/twitter/follow/maneilsf?logo=twitter&style=for-the-badge" alt="maneilsf" /></a> </p>
 
 - 🌱 I’m currently learning JavaScript and some frontend frameworks
 
