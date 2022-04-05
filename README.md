@@ -1,4 +1,4 @@
-### Hi there, I'm Manu 👋!
+### console.log("Hello world!") 👋!
 
 ## About me
 ```js
