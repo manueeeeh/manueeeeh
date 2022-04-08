@@ -2,7 +2,7 @@
 <h3 align="center">A junior frontend developer from Spain that likes programming and learning on his free time.</h3><br>
 
 
-- 🌱 I’m currently learning JavaScript and some frontend frameworks
+- 🌱 I’m currently learning JavaScript and some frameworks
 
 - 📫 How to reach me manu@waveguard.dev / https://manudev.me
 
